@@ -6,5 +6,6 @@ public class helloWorld
         LocalTime currTime = new LocalTime();
         System.out.print("THis is a new change");
         System.out.println("The current local time is" + currTime);
+        System.out.println("This is only for new branch");
     }
 }
